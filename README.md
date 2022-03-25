@@ -10,6 +10,6 @@ I have 3 notebooks,
 
 I was able to achive the Kaggle score of 0.8056
 
-Ranked 231 / 750
+Ranked 237 / 750
 
 ![image](https://user-images.githubusercontent.com/20862520/160079550-0fe6dc23-1d3a-4cdb-9c10-343495bfbd3d.png)
