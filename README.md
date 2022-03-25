@@ -8,5 +8,6 @@ I have 3 notebooks,
 2. Analaysis and Visualizations for creating "to_machinelearning.csv" file 
 3. Machine Learning to predict weather a particular passenger would get transported or not.
 
-Based on the analysis, There are some wierd reasons so as to why certain passengers are getting transported to another dimension. 
-I am still working on the same.! 
+I was able to achive the Kaggle score of 0.8056
+
+![image](https://user-images.githubusercontent.com/20862520/160079550-0fe6dc23-1d3a-4cdb-9c10-343495bfbd3d.png)
