@@ -8,6 +8,8 @@ I have 3 notebooks,
 2. Analaysis and Visualizations for creating "to_machinelearning.csv" file 
 3. Machine Learning to predict weather a particular passenger would get transported or not.
 
+I tried ensembling all models, but the Standalone XGB model has performed well! 
+
 I was able to achive the Kaggle score of 0.80056
 
 Ranked 237 / 750
