@@ -13,10 +13,11 @@ The data after clenasing was used for analysis and I was able to find some inter
 Then, I added new features which will further help classify more efficiently. After the feature engineering and Analysis, 
 I saved that data, and passed it to the ML models. 
 
+### Machine Learning
 I tried ensembling all models, but the Standalone XGB model has given the best score so far! 
 
+### Results
 I was able to achive the Kaggle score of 0.80056
-
 Ranked 237 / 750
 
 ![image](https://user-images.githubusercontent.com/20862520/160079550-0fe6dc23-1d3a-4cdb-9c10-343495bfbd3d.png)
