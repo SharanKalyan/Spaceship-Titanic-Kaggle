@@ -14,7 +14,7 @@ Then, I added new features which will further help classify more efficiently. Af
 I saved that data, and passed it to the ML models. 
 
 ### Machine Learning
-I tried ensembling all models, but the Standalone XGB model has given the best score so far! 
+I tried ensembling all models, but the Standalone XGB model has given the best score so far. ! 
 
 ### Results
 I was able to achive the Kaggle score of 0.80056
