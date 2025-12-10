@@ -2,11 +2,11 @@
 
 Data source : https://www.kaggle.com/
 
-I have 3 notebooks created, 
+I have 3 notebooks created in this repo: 
 
 1. Data_cleansing.ipynb for creating the "clean test.csv" and "clean train.csv" files
 2. Analaysis-and-Visualizations.ipynb for creating "to_machinelearning.csv" file 
-3. Machine-Learning.ipynb to predict weather a particular passenger would get transported or not.
+3. Machine-Learning.ipynb to predict (classify) weather a particular passenger would get transported or not.
 
 ### Analysis
 The data after clenasing was used for analysis and I was able to find some interesting insights. 
