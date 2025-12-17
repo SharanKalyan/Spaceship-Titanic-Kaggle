@@ -11,7 +11,7 @@ I have 3 notebooks created in this repo:
 ### Analysis
 The data after clenasing was used for analysis and I was able to find some interesting insights. 
 Then, I added new features which will further help classify more efficiently. After the feature engineering and Analysis, 
-I saved that data, and passed it to the ML models. 
+I saved that data, and trained statistical models on the data. 
 
 ### Machine Learning
 I tried ensembling all models, but the Standalone XGB model has given the best score so far. ! 
